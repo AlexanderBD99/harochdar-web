@@ -11,7 +11,7 @@ Integritetspolicy och supportsida som App Store kräver. Publiceras med GitHub P
 
 **Före lansering:**
 
-- Ersätt `[FÖRETAGSNAMN]`, `[E-POST]`, `[DATUM]` (och engelska `[COMPANY NAME]`, `[EMAIL]`, `[DATE]`).
+- Uppdatera datumet ("Senast uppdaterad") när policyn ändras.
 - Läs igenom policyn mot vad appen faktiskt gör (t.ex. om statistik med PostHog införs måste den läggas till).
 - Låt någon i teamet eller UF-rådgivaren granska texten.
 
